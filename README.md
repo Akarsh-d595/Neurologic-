@@ -57,10 +57,6 @@ Each record contains:
 
 This indicates excellent performance in distinguishing toxic and non-toxic text.
 
-### 📊 ROC Curve
-
-![ROC Curve]
-
 ---
 
 ## 🚀 How to Run the Project
