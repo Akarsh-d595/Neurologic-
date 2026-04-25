@@ -59,7 +59,7 @@ This indicates excellent performance in distinguishing toxic and non-toxic text.
 
 ### 📊 ROC Curve
 
-![ROC Curve](results.png)
+![ROC Curve]
 
 ---
 
